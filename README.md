@@ -8,3 +8,16 @@ This repository is a Python script that allows you to delete the annoying ._ fil
   <li>Run the file and wait to see the magic!🙂</li>
 </ul>
 <h2>Examples:</h2>
+Before run the script:
+
+![alt text](https://github.com/tonyvazgar/Delete-._-files/blob/master/examples/1.png)
+
+Running the script:
+
+![alt text](https://github.com/tonyvazgar/Delete-._-files/blob/master/examples/2.png)
+
+After run the script:
+
+![alt text](https://github.com/tonyvazgar/Delete-._-files/blob/master/examples/3.png)
+
+Now your forlder is clean 🙂
